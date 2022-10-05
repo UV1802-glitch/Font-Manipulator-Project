@@ -1,0 +1,38 @@
+canvas
+{
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+}
+
+.header
+{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color: cadetblue;
+    font-size: 15px;
+    background-color: black;
+    line-height: 3;
+}
+
+.heading
+{
+    color: whitesmoke;
+    font-size: 30px;
+    width: 100%;
+    background-color: lightskyblue;
+}
+
+.note
+{
+    color: black;
+    font-size: 15px;
+    width: 100%;
+}
+
+body
+{
+    background-color: firebrick;
+}
